@@ -1,5 +1,5 @@
 :root {
-  --gray: #505168;
+  --malachite: #09E85E;
   --heading-size: 2em;
 }
 body {
@@ -169,7 +169,7 @@ a.source:visited {
 
 /* Storymap title & subtitle */
 h1 {
-  color: var(--gray);
+  color: var(--malachite);
   margin: 0;
   font-size: 1.5em;
 }
