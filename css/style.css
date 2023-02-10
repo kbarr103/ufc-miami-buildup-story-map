@@ -1,3 +1,7 @@
+:root {
+  --gray: #505168;
+  --heading-size: 2em;
+}
 body {
   padding: 0px;
   margin: 0px;
