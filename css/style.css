@@ -3,7 +3,6 @@
   --heading-size: 2em;
 }
 body {
-  color: var(--yellow);
   padding: 0px;
   margin: 0px;
   font-family: "Helvetica", sans-serif;
