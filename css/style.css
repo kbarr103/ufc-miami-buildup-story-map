@@ -1,3 +1,6 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap" rel="stylesheet">
 :root {
   --yellow: #F0F005;
   --heading-size: 2em;
@@ -5,7 +8,7 @@
 body {
   padding: 0px;
   margin: 0px;
-  font-family: "Helvetica", sans-serif;
+  font-family: 'Raleway', sans-serif;
   overflow: hidden;
 }
 
