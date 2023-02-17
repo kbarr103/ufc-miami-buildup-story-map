@@ -1,5 +1,5 @@
 :root {
-  --yellow: #F0F005;
+  --gold: #FFD400;
   --heading-size: 2em;
 }
 body {
@@ -7,7 +7,7 @@ body {
   margin: 0px;
   font-family: 'Raleway', sans-serif;
   overflow: hidden;
-  color: var(--yellow);
+  color: var(--gold);
 }
 
 #map {
@@ -52,7 +52,7 @@ body {
   position: absolute;
   left: 0;
   top: 203px;
-  color: var(--yellow);
+  color: var(--gold);
   width: 100vw;
   z-index: 100;
   margin: 0;
@@ -125,7 +125,7 @@ a.source:visited {
 
 .in-focus {
   opacity: 1.0;
-  background-color: white;
+  background-color: gray;
 }
 
 .out-focus {
@@ -171,13 +171,13 @@ a.source:visited {
 
 /* Storymap title & subtitle */
 h1 {
-  color: var(--yellow);
+  color: var(--gold);
   margin: 0;
   font-size: 1.5em;
 }
 
 h2 {
-  color: var(--yellow);
+  color: var(--gold);
   margin: 0;
   font-size: 1.1em;
   font-weight: normal;
